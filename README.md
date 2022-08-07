@@ -1,0 +1,2 @@
+# Diana
+I am Diana version 1 point O your persoanl assistant. I am programmed to minor tasks like'                   'opening youtube,google chrome,gmail and stackoverflow ,predict time,take a photo,search wikipedia,'                   'predict weather '                   'in different cities , get top headline news from times of india and you can ask me computational '                   'or geographical questions too!
